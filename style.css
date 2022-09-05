@@ -1,0 +1,44 @@
+header {
+    font-family: Arial;
+    color: white;
+    
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+    
+
+    text-align: right;
+}
+
+main {
+    font-family: sans-serif;
+
+    height: 800px;
+    width: auto;
+    background-color: aquamarine;
+
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    color: grey;
+    text-align: center;
+}
+
+section{
+    color: orange;
+    text-align: left;
+}
+
+ul {
+    background-color: red;
+}
+
+
+
+
+
